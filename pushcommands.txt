@@ -1,5 +1,5 @@
 git add .
 
-git commit -m "Remove Unused Files"
+git commit -m "<<Any Text or Message Here>>"
 
 git push
